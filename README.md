@@ -1,3 +1,3 @@
 # mini_ex
 
-![alt text](stjerne.png "Beskrivelse af billede")
+![alt text](stjerne.PNG "Beskrivelse af billede")
