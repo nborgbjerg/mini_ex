@@ -6,6 +6,8 @@ function preload() {
 var value;
 function setup() {
   createCanvas (300, 300);
+  x = width / 2 - 25;
+  y = height;
   value = color('#fae');
 }
 
@@ -18,8 +20,13 @@ function draw() {
   rect (pos, 100, 200, 50);
   textSize(20);
   text('programming is fun', 68, posX);
-  image(img, 120, 100, 50, 50);
+  image(img, x, y, 50, 50);
   tint(255, 126);
+  x = x + random(-1, 1),
+  y = y - 1;
+  if (y < 0) {
+    y = height;
+  }
 }
 
 function mouseWheel(event) {
