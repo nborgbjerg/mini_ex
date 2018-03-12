@@ -29,7 +29,7 @@ function setup () {
   button.mousePressed(refresh); //custom function that re-runs setup
   button.hide();
 
-  drops = new Group() //for some reason the only way i could get the drops to reposition, was to put them in a group. This was also to be able to move them around without moving the rose, since they are both sprites.
+  drops = new Group() //This was to be able to move them around without moving the rose, since they are both sprites. It was easier to work around with as a group.
 
   droplet = createSprite(random(width), 240); //creation of the drop sprite
   droplet.addAnimation("normal", "colordrop01.png", "colordrop06.png");
