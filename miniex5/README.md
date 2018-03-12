@@ -6,7 +6,7 @@
 
 **My program** is a minigame. You have a rose at the bottom of the screen, which is controlled by the mouse's X position. From the clouds on the top the screen, animated drops fall in all the colors of the rainbow. The objective of the game is to catch the drops with the rose.
 Whenever a drop is caught, the rose changes color.
-This program took me way longer than anticipated and I had to take away a lot of expansions, because it would take too much time. I experimented a lot with the play-library, and sometimes it wasn't very coorperative.
+This program took me way longer than anticipated and I had to take away a lot of expansions, because it would take too much time. I experimented a lot with the play-library, and sometimes it wasn't very coorperative. That being said, I still loved the assignment even though it took me an incredible amount of hours to finish. Game development is something that I hope I can be a part of at some point, and I believe this exercise made me understand a bit more about the different components in a game.
 
 I used a *class* I called "Cloudy" to create the foreground clouds. Their method is their movement, where they move by +3 (this.speed). Their attributes is first and foremost a drawing of cloud. The parameters used is their x-position, y-position, width and height. With a for loop I created five of them.
 I also used a *group* called "drops". Thought there is technically only one sprite in the group, it was easier to work with. I tried a bunch of different stuff, to get to know the play-library and the Group function made it easier to work with, so I kept it there since it worked out. And if it ain't broke, don't fix it.
