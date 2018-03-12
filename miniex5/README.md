@@ -20,6 +20,7 @@ But what is an object? Well, as Lee writes: "*an **object** in the world of prog
 Using classes in programming makes it easier to create unique objects that are made up of the same attributes, but these attributes have different values.
 
 **Digital culture**
+
 This weeks class and literature has got me thinking so much more about pretty much every digital encounter. I tend to look out for what could be classified as an object, especially in games. It's not only simple games such as Tetris where you can recognise how they have the same methods and sort of the same attributes, but also bigger games, where especially in the smaller details you see the same objects.
 It can also apply to things such as the internet, where a lot of sites got objects. In software such as Spotify, there's a bunch of different objects and they only differ a bit (such as the volume icon).
 Programming using objects, you see how tiny changes can make a difference. You as a programmer cannot be unbiased when using the "possible" attributes and methods. I chose what colors I wanted the rose and drops to be and I drew everything in the game myself. I made the decisions, even though the user will think they made it (fx change the color of the rose.) When though it seems as if you can change the objects yourself as a user, there is always a limit - the limit that is implemented in the code. There is a limit to speed, direction etc.
