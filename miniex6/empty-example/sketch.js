@@ -13,9 +13,9 @@ function preload() { //loading the files beforehand, so it all appears together
 function setup() {
   createCanvas(windowWidth, 900);
   background(50);
-  //song.play();
+  song.play();
 
-  for (var i = 0; i < 6; i++) { //a forloop making all the flowers appear
+  for (var i = 0; i < 8; i++) { //a forloop making all the flowers appear
     var x = 70 + 300 * i;
     var maxHeight = random(1100, 900); //the flowers start at different points, so they would grow at the exact same Y-position all together
     flowers[i] = new Flower(x, 900, maxHeight);
