@@ -13,7 +13,7 @@ function preload() { //loading the files beforehand, so it all appears together
 function setup() {
   createCanvas(windowWidth, 900);
   background(10);
-  song.play();
+  song.loop();
 
   for (var i = 0; i < 8; i++) { //a forloop making all the flowers appear
     var x = 90 + 300 * i;
