@@ -7,6 +7,7 @@
 
 
 *Disclaimer!!* I had some trouble with the program on my laptop since I created it on my desktop - it scales the program up, and I don't know why, but if that happens to you, it should look okay if you just zoom out.
+Another thing I've noticed is that when I look at it on my laptop, the ECG does a "skip" in the end, which isn't there on my desktop - once again, I don't know why.
 
 
 **I had some trouble** this time around to come up with an idea for this exercise. I was unsure about the rules and how it should generate something. Ann showed us a generative tree she created, which there were also examples of on [openprocessing](https://www.openprocessing.org/sketch/184276). I'm a nature person, so I was drawn to this, but I didn't want to copy a code and not understand it. I was sketching in a notebook, coming up with rules. Somehow I ended up drawing an ECG graph of a heartbeat. Coincidentally I was listening to the soundtrack of the Hunger Games, where the song that plays in the background came on. Listening to the lyrics I came up with a scenery in my head, that I wanted to create.
