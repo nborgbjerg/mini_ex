@@ -1,5 +1,5 @@
-# H1 Weekly Mini Assignment 6 - A Generative Program
-###### H6 ..here the daisies guard you from every harm
+# Weekly Mini Assignment 6 - A Generative Program
+###### ..here the daisies guard you from every harm
 
 ![alt text](miniex6snap.PNG)
 
