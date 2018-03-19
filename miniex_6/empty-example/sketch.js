@@ -111,9 +111,9 @@ function heartBeat() {
     heartY += 8;
   } else if (heartX >= windowWidth/2+25 && heartX <= windowWidth/2+50) {
     heartY -= 8;
-  } else if (heartX >= windowWidth/2+50 && heartX <= windowWidth/2+65) {
+  } else if (heartX >= windowWidth/2+50 && heartX <= windowWidth/2+60) {
     heartY += 8;
-  } else if (heartX >= windowWidth/2+65 && heartX <= windowWidth) {
+  } else if (heartX >= windowWidth/2+60 && heartX <= windowWidth) {
     heartY = 150; //the end of the "mountains"
   }
 
