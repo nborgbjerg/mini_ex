@@ -1,4 +1,4 @@
-H1 Weekly Mini Assignment 6 - A Generative Program
+# H1 Weekly Mini Assignment 6 - A Generative Program
 
 ![alt text](miniex6snap.PNG)
 
