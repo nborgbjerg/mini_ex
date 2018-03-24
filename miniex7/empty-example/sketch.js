@@ -53,7 +53,7 @@ caw.play();
 function draw() {
   background(80);
   tint(220, 150);
-  image(clouds, 0, 0, windowWidth, windowHeight);
+  image(clouds, 0, 0);
   filter(GRAY);
   filter(INVERT);
 
