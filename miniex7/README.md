@@ -7,7 +7,7 @@
 
 **The Generative Raven**
 
-I collaborated with *Camilla* from my study group.
+I collaborated with [Camilla](https://github.com/CamillaMondrup/Mini_ex/tree/master/Mini_ex7) from my study group.
 
 **Our program** takes a verse from the well-known poem *The Raven* by English poet Edgar Allan Poe. The poem is quite eerie and is a story of a man slowly falling into madness. The poem in itself keeps a rhythm throughout it's entirety, where every stressed syllable is followed by an unstressed syllable. This would've been good to have been read out loud, which I will speak further off in the analysis.
 We agreed upon this program, because we liked the idea of *poem-generator* much like ones we've seen in class and other places on the internet. The program replaces most of the verbs, nouns, adjectives and pronouns every time you press the mouse button. We decided to keep some words there, to give the verse some identificators and it works kinda like a [mad libs](https://en.wikipedia.org/wiki/Mad_Libs). What is cool in our opinion is that we made something that could generate a **real** poem. It was understandable and it (sort of) made sense!
