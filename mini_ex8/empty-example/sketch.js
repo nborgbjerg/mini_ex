@@ -37,7 +37,7 @@ function weatherAsk() {
 function gotData(data) {
   weather = data;
 
-  if (data) { //her er forloopet som laver alle skyerne efter parametrene fra JSON filen
+  if (data) { //This is the for-loop that creates the clouds
     for (let i = 0; i < weather.clouds.all; i++) {
       // Random between the canvas size, subtracted the image size to keep clouds within bounds
       var x = random(20, canvasSize[0] - cloudSize);
@@ -58,7 +58,7 @@ function draw() {
   }
 }
 
-class Cloudy { //classen med skyerne
+class Cloudy { //Class with clouds
   constructor (x, y, speed) {
     this.x = x;
     this.y = y;
@@ -71,7 +71,7 @@ class Cloudy { //classen med skyerne
       // -this.speed makes the obejcts move back on the x axis when reaching the end of canvas
       this.speed = - this.speed;
     } else if (this.x > canvasSize[0] - cloudSize) {
-      this.speed = - this.speed; //men det duer så ikke når de rammer den anden side
+      this.speed = - this.speed;
     }
   }
   show () {
