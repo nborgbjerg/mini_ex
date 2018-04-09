@@ -1,5 +1,12 @@
+# Weekly Mini Assignment 8 - API
+
+
+![alt text](miniex8snap.PNG)
+
+[Link to the program that WORKED](https://www.youtube.com/watch?v=dmm5WuZKEUc&feature=youtu.be)
 
 I worked with Sissel from my study group on this assignment.
+Sadly, we have some trouble with it working. In Atom, our editor, the program works fine. We have a theory that the JSON data from the API can't be stored on github. On the video attached you can see that it works, just not on Github.
 
 We developed a program that takes the windspeed and number of clouds from an API and visualizes this on the canvas. The number of clouds is equal to the number of clouds in the given city, put in the submit bar, and the speed of them equals to the real wind speed at the place.
 We really wanted to visualize some sort of data. But sadly, we experienced many bumps on the road. First, we wanted to make something with music and looked at the SoundCloud API. Due to unknown reasons, they had taken the API down. Then we went to Spotify which took forever to get it to work. In the end all we managed to do was make a log-in page, but to get data of any sort, it would be needed to get a user’s number and put that some place. We thought it would be too much work for a user, and not really the simple visualization we wanted to make. Then we went and searched through countless APIs and none of them would work. In the end we had to retreat and went to Shiffman’s video where we followed his instructions, but just took in different parameters for the program. We feel like the important part of the assignment was to understand API and with the countless failures, we didn’t learn much because we just didn’t understand what caused the issues. We thought the best way to learn was go back to the most basic steps and it ended up working! It felt like we just won a long, painful fight with the API gods and we are very happy with our program.
