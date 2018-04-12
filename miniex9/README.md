@@ -4,6 +4,8 @@
 Our program is an inspiration in between the children’s toy called a tamagotchi and  the snapchat streak phenomenon. In relation to the topic temporality, we got to talk about how we are drawn to social medias and spend a great amount of time on the platforms. We somehow wanted to express a critical comparison  between online social relations and offline social relations, and  with our product be able to motivate people to spend more ‘actual’ and  physical time with their friends. The intention of the program is that you quest to do a physical activity with one or more of your friends for example to drink coffee, share a meal, take a walk or be cultural. The purpose then is, that you are gaining more time to your tamagotchi - Time is valuta. If you don’t feed your Tamagotchi, we were thinking of some kind of consequence that would motivate you even more. Our idea of a consequence is that you are connected to your facebook account, and then your account would be blocked for a number of days, until you have fed your tamagotchi sufficiently with ‘time’. 
 
 ![alt text](Live_streak.png)
+
+
 **Technical challenges and how we will solve them**
 It will be a challenge to get the API from Facebook to work together with our program. We are not sure what limitations Facebook might have in their API, so it might not be possible for us to get the data that we need and it might not be possible to log in as a user. We will need to do some research and try using the actual API, to know if it is working and whether we need to figure out another solution. 
 
@@ -15,6 +17,8 @@ As a consequence of not reaching your weekly goals of real-life social interacti
 The program revolves around the subject of receiving and giving empathy. In this SoME culture many people has begun to feel lonely more often because we aren't present with each other to the same extent in real life. Therefore the idea is to create a Empathybot that will be with you at any time, and be aware of your emotions. The Empathybot will mimic your facial expressions and in this way give you attention until you are not lonely anymore. 
 
 ![alt text](empathybot.PNG)
+
+
 **Technical challenges and how we will solve them**
 We need to learn how to use facetracking in Javascript, and get familiar with this. We need to create an avatar that will follow you facial expressions, and therefore different parts of the avatars face has to be connected with different tracking points on the users face, so the avatar can mimic the users expressions. 
 
