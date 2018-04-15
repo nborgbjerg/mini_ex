@@ -1,3 +1,21 @@
+
+# Individual work pt. I
+
+### Flowchart of miniex 6
+
+
+[Link to miniex6 folder](https://github.com/nborgbjerg/mini_ex/tree/master/miniex_6)
+
+Flowchart of miniex 6:
+
+![alt text](flowchartminiex6.PNG)
+
+**What I found difficult about this flowchart**
+
+First of all, it was difficult choosing what parts to draw in the flowchart. It was also difficult to make it as understandable as possible, especially making it understanable for people who do not understand programming. The program I chose had a lot of different things going on, and I chose to leave out the details about the rhythm of the heartbeat out, because it would be several directions according to its x and y-position. I thought it was fun making it for the different arrays, and it's good at explaining what happens if x = z or = y. The hardest part was aranging the flowchart so it was the most comfortable for the reader. Here I based it on how Western people read, from left to right and from up to down.
+
+
+
 # Group work: Live Streak and Empathybot
 
 ### The program: Live Streak 
@@ -31,3 +49,17 @@ The program revolves around the subject of receiving and giving empathy. In this
 We need to learn how to use facetracking in Javascript, and get familiar with this. We need to create an avatar that will follow you facial expressions, and therefore different parts of the avatars face has to be connected with different tracking points on the users face, so the avatar can mimic the users expressions. 
 
 
+
+# Individual work pt. II
+
+**Difference between my own flowchart and the ones we did in our group**
+
+We made the flowcharts in our group before I did the one on my own. First of all, it gave me some extra knowledge on flowchart before starting. I think the main difference between the two is that my own was made based on a finished program. In our group we would have to guess a lot --> *what do we expect to happen when x = y* and so on.. We have all experienced hardship during programming and most of the time, it doesn't work out as intended. Often you have to find alternative solutions to problems, and therefore the flowchart of the group programs are not the finished product. I believe it is a good way to plan out what we **want** to happen in the program, but making it will probably show us a different reality. My own flowchart is done to showcase what happens in the program, while the groupwork is more ideas and almost like brainstorming. It's more like a plan or a generator for ideas, where the individual flowchart shows how the program ended up working.
+
+**If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms?**
+
+Flowchart and algorithms are all calculations. It's a step-by-step process, as it says in the text as well: "*Algorismus was originally the process for calculaing Hindu-Arabic numerals.*" Flowcharts are very *human-friendly* as it makes it easier for us to read and understand calculations and algorithms. As Finn says himself: "*Algorithms are the computer processes and formulas that take your questions and turn them into answers.*" It's the process where you put in a problem or question and the computer finds the answer. We see algorithms in our daily lives all the time. On a technical level we of course see it in how a computer calculates the input and sens out an input. It's also in programs, algorithms behind what kind of ads that are shown to you etc.
+
+But we can also take flowcharts and the algorithm/calculations behind: the notion of it is seen in everything we do. As I am typing this and looking at the screen, I am calculating what button to press next on the keyboard. Did I make a spelling error? Then I will use backspace until deleted. When it is deleted I will press the next letter on the keyboard to form the word I want.
+It can also be seen as when we try to find our way. We calculate where we are on the route and that way we know where to turn next time.
+We look at where we are in a process and use that to decide what to do next, and we do that in our daily life, almost every moment that we are awake.
